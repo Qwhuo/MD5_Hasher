@@ -1,0 +1,8 @@
+*.out
+*.exe
+*.o
+*.dSYM/
+maze
+a.out
+.DS_Store
+.vscode/
